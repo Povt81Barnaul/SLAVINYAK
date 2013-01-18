@@ -1,0 +1,13 @@
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\bin\Release\WPF_VIDEO.exe
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\bin\Release\WPF_VIDEO.pdb
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\ResolveAssemblyReference.cache
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\MainWindow.baml
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\MainWindow.g.cs
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\App.g.cs
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\WPF_VIDEO_MarkupCompile.cache
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\WPF_VIDEO.g.resources
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\WPF_VIDEO.Properties.Resources.resources
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\GenerateResource.read.1.tlog
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\GenerateResource.write.1.tlog
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\WPF_VIDEO.exe
+E:\STUDY\5\WPF_VIDEO\WPF_VIDEO\obj\x86\Release\WPF_VIDEO.pdb

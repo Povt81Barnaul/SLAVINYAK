@@ -1,0 +1,21 @@
+﻿<controls:ChildWindow x:Class="Video_test.ChildWindow1"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           Width="266" Height="111" 
+           Title="" HasCloseButton="False" OverlayBrush="Black" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk">
+    <Grid x:Name="LayoutRoot" Margin="2">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Button x:Name="CancelButton" TabIndex="400" Content="Выход" Click="CancelButton_Click" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,12,0,0" Grid.Row="1" />
+        <Button x:Name="OKButton" TabIndex="300" Content="Вход" Click="OKButton_Click" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,12,79,0" Grid.Row="1" Background="#FF1F3B53" />
+        <TextBox Height="23" TabIndex="100" Name="textBox1" KeyDown="textBox1_KeyDown" TextInputStart="textBox1_TextInputStart" TextChanged="textBox1_TextChanged" TextInputUpdate="textBox1_TextInputUpdate" VerticalAlignment="Top" HorizontalAlignment="Right" Width="154" />
+        <TextBox Height="23" TabIndex="200" HorizontalAlignment="Right" KeyDown="textBox2_KeyDown" TextChanged="textBox2_TextChanged" Margin="0,30,0,0" Name="textBox2" VerticalAlignment="Top" Width="154" />
+        <sdk:Label Height="20" HorizontalAlignment="Left" Margin="8,5,0,0" Name="L1" Content="Логин: " FontWeight="SemiBold" VerticalAlignment="Top" Width="79" />
+        <sdk:Label Height="20" HorizontalAlignment="Left" Margin="8,33,0,0" Name="L2" Content="Сервер:" FontWeight="SemiBold" VerticalAlignment="Top" Width="79" />
+        
+    </Grid>
+</controls:ChildWindow>

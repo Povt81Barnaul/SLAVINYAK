@@ -1,0 +1,5 @@
+E:\STUDY\5\Video_test\Video_test.Web\bin\Video_test.Web.dll
+E:\STUDY\5\Video_test\Video_test.Web\bin\Video_test.Web.pdb
+E:\STUDY\5\Video_test\Video_test.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\STUDY\5\Video_test\Video_test.Web\obj\Debug\Video_test.Web.dll
+E:\STUDY\5\Video_test\Video_test.Web\obj\Debug\Video_test.Web.pdb

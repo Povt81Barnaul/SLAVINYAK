@@ -1,0 +1,11 @@
+﻿<xapCache source="E:\STUDY\5\Video_test\Video_test\Bin\Release\Video_test.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="18.01.2013 17:04:27">
+  <file source="E:\STUDY\5\Video_test\Video_test\obj\Release\Video_test.dll" archivePath="Video_test.dll" lastWriteTime="18.01.2013 17:04:26" />
+  <file source="E:\STUDY\5\Video_test\Video_test\FJ.Core.dll" archivePath="FJ.Core.dll" lastWriteTime="21.11.2009 20:56:24" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="18.11.2011 18:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="18.11.2011 18:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="18.11.2011 18:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\ru\System.Windows.Controls.resources.dll" archivePath="ru\System.Windows.Controls.resources.dll" lastWriteTime="08.12.2011 0:27:32" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\ru\System.Windows.Controls.Data.Input.resources.dll" archivePath="ru\System.Windows.Controls.Data.Input.resources.dll" lastWriteTime="08.12.2011 0:27:32" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\ru\System.ComponentModel.DataAnnotations.resources.dll" archivePath="ru\System.ComponentModel.DataAnnotations.resources.dll" lastWriteTime="08.12.2011 0:27:32" />
+  <file source="E:\STUDY\5\Video_test\Video_test\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="18.01.2013 17:04:26" />
+</xapCache>

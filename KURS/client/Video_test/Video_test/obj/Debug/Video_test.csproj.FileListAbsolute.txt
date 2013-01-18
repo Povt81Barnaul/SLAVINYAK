@@ -1,0 +1,13 @@
+E:\STUDY\5\Video_test\Video_test\Bin\Debug\Video_test.dll
+E:\STUDY\5\Video_test\Video_test\Bin\Debug\Video_test.pdb
+E:\STUDY\5\Video_test\Video_test\Bin\Debug\AppManifest.xaml
+E:\STUDY\5\Video_test\Video_test\Bin\Debug\Video_test.xap
+E:\STUDY\5\Video_test\Video_test\Bin\Debug\Video_testTestPage.html
+E:\STUDY\5\Video_test\Video_test\obj\Debug\ResolveAssemblyReference.cache
+E:\STUDY\5\Video_test\Video_test\obj\Debug\App.g.i.cs
+E:\STUDY\5\Video_test\Video_test\obj\Debug\MainPage.g.i.cs
+E:\STUDY\5\Video_test\Video_test\obj\Debug\Video_test.g.resources
+E:\STUDY\5\Video_test\Video_test\obj\Debug\Video_test.dll
+E:\STUDY\5\Video_test\Video_test\obj\Debug\Video_test.pdb
+E:\STUDY\5\Video_test\Video_test\obj\Debug\XapCacheFile.xml
+E:\STUDY\5\Video_test\Video_test\Bin\Debug\FJ.Core.dll
